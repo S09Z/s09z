@@ -1,45 +1,87 @@
-<style>
-/* GLOBAL STYLES */
-body {
-  background: #333;
-  padding-top: 5em;
-  display: flex;
-  justify-content: center;
-}
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
 
-/* DEMO-SPECIFIC STYLES */
-.typewriter h1 {
-  color: #fff;
-  font-family: monospace;
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid orange; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .15em; /* Adjust as needed */
-  animation: 
-    typing 3.5s steps(30, end),
-    blink-caret .5s step-end infinite;
-}
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
 
-/* The typing effect */
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
+        .container {
+          --color-main: #5452ee;
+          --color-primary: #e73c7e;
+          --color-secondary: #23a6d5;
+          --color-tertiary: #ffff;
 
-/* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange }
-}
-</style>
+          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+
+          width: 100%;
+          height: 300px;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+
+        @media (prefers-color-scheme: light) {
+          .container {
+            --color-main: #F15BB5;
+            --color-primary: #24b0ef;
+            --color-secondary: #4526f6;
+            --color-tertiary: #f6f645;
+          }
+        }
+
+        @media (prefers-reduced-motion) {
+          .container {
+            animation: none;
+          }
+
+          .hi {
+            animation: none;
+          }
+        }
+      </style>
+
+      <div class="container">
+        <h1>Hi there, my name is Ittichai Boonyarakthunya <div class="hi">👋</div></h1>
+      </div>
+    </div>
+  </foreignObject>
+</svgg
+
   
 <!-- ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
 ![1](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/name.gif) -->
-
-<div class="typewriter">
-  <h1>Ittichai Boonyarakthunya.</h1>
-</div>
 
 <div align="center">
 
