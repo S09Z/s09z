@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Ittichai Boonyarakthunya</h1>
 <h3 align="center">A Mid-Level Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **BPM - Makesflow**
+- 🔭 I’m currently working on ** Full Stack Developer **
 
-- 🌱 I’m currently learning **DevOps, Data Scraping**
+- 🌱 I’m currently learning ** DevOps,RPA, Data Engineer **
 
 - 💬 Ask me about **React, Vue or PHP**
 
