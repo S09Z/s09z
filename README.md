@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on ** Full Stack Developer **
 
-- 🌱 I’m currently learning ** DevOps,RPA, Data Engineer **
+- 🌱 I’m currently learning ** DevOps, Cloud Engineer, Data Engineer **
 
-- 💬 Ask me about **React, Vue or PHP**
+- 💬 Ask me about ** Typescript, React, NextJS, VueJS, Laravel or PHP**
 
 - 📫 How to reach me **i.boonyarakthunya@gmail.com**
 
