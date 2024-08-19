@@ -1,11 +1,11 @@
 <h1 align="center">Hello there 👋, I'm Ittichai Boonyarakthunya</h1>
-<h3 align="center">A Mid-Level Fullstack Developer</h3>
+<h3 align="center">A Senoir Fullstack Developer</h3>
 
-- 🔭 I’m currently working on ** Full Stack Developer **
+- 🔭 I’m currently working on ** Senoir Full Stack Developer **
 
-- 🌱 I’m currently learning ** DevOps, Cloud Engineer, Data Engineer **
+- 🌱 I’m currently learning ** DevOps, MLOps, AI Engineer, Data Engineer **
 
-- 💬 Ask me about ** Typescript, React, NextJS, VueJS, Laravel or PHP**
+- 💬 Ask me about ** Typescript, Golang, NextJS, NestJS, Laravel, JS, PHP, Python, R **
 
 - 📫 How to reach me **i.boonyarakthunya@gmail.com**
 
