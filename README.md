@@ -3,13 +3,15 @@
 
 - 🔭 I’m currently working on ** Senoir Full Stack Developer **
 
+- ⚡ Fun fact #1 **I'm very balancing between adaptation and learning new thing**
+
+- ⚡ Fun fact #2 **Really love & interesting working around AI or building Data intensive application **
+
 - 🌱 I’m currently learning ** DevOps, MLOps, AI Engineer, Data Engineer **
 
 - 💬 Ask me about ** Typescript, Golang, NextJS, NestJS, Laravel, JS, PHP, Python, R **
 
 - 📫 How to reach me **i.boonyarakthunya@gmail.com**
-
-- ⚡ Fun fact **I'm very balancing between adaptation and learning new thing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
